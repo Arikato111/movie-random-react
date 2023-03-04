@@ -15,9 +15,8 @@ const Movies: FC = () => {
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4">
             {movies.map((mv, key) => {
-                mv.trailer = "";
                 return <div key={key} className="my-3">
-                    <ShowMovie {...mv} />
+                    <ShowMovie id={mv.id} name={mv.name} img={mv.img} year={mv.year} trailer={""} />
                 </div>
             })}
         </div>
