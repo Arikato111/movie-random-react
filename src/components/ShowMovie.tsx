@@ -16,7 +16,7 @@ const ShowMovie: FC<ShowMovieInput> = ({ id, img, name, year, trailer }) => {
         <h4>ฉายเมื่อปี ค.ศ. {year}</h4>
         {showTrailer ?
             <div className="my-3 max-w-screen-md">
-                <iframe className="sm:w-[560px] sm:h-[315px]" src={trailer} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                <iframe className="sm:w-[560px] sm:h-[315px]" src={trailer + '?autoplay=1'} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
             </div>
             :
             <a target={"_blank"} href={`https://www.google.co.th/search?q=${name}`}>

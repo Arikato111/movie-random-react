@@ -13,8 +13,13 @@ const Home: FC = () => {
 
     useEffect(() => {
         document.title = "ดูอะไรดี"
-    }, [])
+        addEventListener("keyup", (e) => {
+            if (e.key === 'r') {
+                setLoadState(1)
+            }
+        })
 
+    }, [])
     useEffect(() => {
         if (loadState === 100) {
             // random movie when loadState === 100
@@ -30,7 +35,7 @@ const Home: FC = () => {
         }
     }, [loadState])
     return <>
-        <main className={`pt-10 min-h-screen bg-gradient-to-tr sm:bg-gradient-to-r from-pink-300 via-white to-emerald-300 dark:from-black dark:to-black ${loadState !== 100 && "flex flex-col justify-center h-screen items-center"}`}>
+        <main className={` min-h-screen bg-gradient-to-tr sm:bg-gradient-to-r from-pink-300 via-white to-emerald-300 dark:from-black dark:to-black ${loadState !== 100 ? "flex flex-col justify-center h-screen items-center" : "pt-10"}`}>
             <h3 className="text-3xl text-center my-2 text-slate-800 dark:text-slate-200">ดูภาพยนตร์อะไรดี?🎥</h3>
             <div className="flex flex-col items-center justify-center text-center">
                 {movie > -1 && loadState === 100 ? (<div>
