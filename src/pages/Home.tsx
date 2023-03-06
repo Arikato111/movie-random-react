@@ -12,14 +12,24 @@ const Home: FC = () => {
     const [delayLoading, setDelayLoading] = useState(50)
 
     useEffect(() => {
-        document.title = "ดูอะไรดี"
-        addEventListener("keyup", (e) => {
-            if (e.key === 'r') {
-                setLoadState(1)
-            }
-        })
-
+        return () => {
+            document.title = "ดูอะไรดี"
+        }
     }, [])
+
+    useEffect(() => {
+        const randomMovie_pressR = (e: KeyboardEvent) => {
+            if (e.code === "KeyR") {
+                if (loadState === 0 || loadState === 100)
+                    setLoadState(1)
+            }
+        }
+        window.addEventListener("keyup", randomMovie_pressR)
+        return () => {
+            window.removeEventListener("keyup", randomMovie_pressR)
+        }
+    }, [loadState])
+
     useEffect(() => {
         if (loadState === 100) {
             // random movie when loadState === 100
@@ -34,6 +44,7 @@ const Home: FC = () => {
             setDelayLoading(Math.floor(Math.random() * 150));
         }
     }, [loadState])
+
     return <>
         <main className={` min-h-screen bg-gradient-to-tr sm:bg-gradient-to-r from-pink-300 via-white to-emerald-300 dark:from-black dark:to-black ${loadState !== 100 ? "flex flex-col justify-center h-screen items-center" : "pt-10"}`}>
             <h3 className="text-3xl text-center my-2 text-slate-800 dark:text-slate-200">ดูภาพยนตร์อะไรดี?🎥</h3>
