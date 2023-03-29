@@ -117,5 +117,12 @@
         "img": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
         "year": "1994",
         "trailer": "https://www.youtube.com/embed/bLvqoHBptjg"
+    },
+    {
+        "id": 17,
+        "name": "blade runner 2049",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
+        "year": "2017",
+        "trailer": "https://www.youtube.com/embed/gCcx85zbxz4"
     }
 ]
