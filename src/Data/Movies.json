@@ -131,5 +131,12 @@
         "img": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
         "year": "2022",
         "trailer": "https://www.youtube.com/embed/hf8EYbVxtCY"
+    },
+    {
+        "id": 19,
+        "name": "rurouni kenshin the beginning",
+        "img": "https://upload.wikimedia.org/wikipedia/en/5/57/Rurouni_Kenshin_The_Beginning.jpg",
+        "year": "2021",
+        "trailer": "https://www.youtube.com/embed/McqDy8GbvCg"
     }
 ]
