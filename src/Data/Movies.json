@@ -138,5 +138,12 @@
         "img": "https://upload.wikimedia.org/wikipedia/en/5/57/Rurouni_Kenshin_The_Beginning.jpg",
         "year": "2021",
         "trailer": "https://www.youtube.com/embed/McqDy8GbvCg"
+    },
+    {
+        "id": 20,
+        "name": "a silent voice",
+        "img": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fa/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87_%28%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%29.jpg/800px-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87_%28%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%29.jpg",
+        "year": "2016",
+        "trailer": "https://www.youtube.com/embed/mVYdv953nKo"
     }
 ]
