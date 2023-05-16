@@ -26,4 +26,5 @@
 
 - [x] darkmode 
 - [x] beautiful front-end 
-- [ ] many movies
+- [x] many movies
+- [x] add search movies feture
