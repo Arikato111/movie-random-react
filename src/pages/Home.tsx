@@ -78,7 +78,7 @@ const Home: FC = () => {
       </main>
       {Movies.map((mv, idx) => {
         return (
-          <div className="text-center">
+          <div key={idx} className="text-center">
             <img className="hidden" key={idx} src={mv.img} alt={mv.name} />
           </div>
         );
