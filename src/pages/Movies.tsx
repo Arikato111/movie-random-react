@@ -9,7 +9,9 @@ const Movies: FC = () => {
     document.title = "ภาพยนตร์ทั้งหมด";
   }, []);
 
-  const MovieSearched = movies.filter((m) => m.name.toLowerCase().includes(searchKey.toLocaleLowerCase()));
+  const MovieSearched = movies.filter((m) =>
+    m.name.toLowerCase().includes(searchKey.toLocaleLowerCase()) || m.year.includes(searchKey)
+  );
 
   return (
     <main className="frame">
@@ -21,7 +23,7 @@ const Movies: FC = () => {
         </Link>
         <span className=" text-center m-3 w-full sm:w-auto">
           <input
-          className="px-2 py-1 w-auto focus:outline-none rounded-md shadow-md shadow-zinc-300 dark:shadow-zinc-500"
+            className="px-2 py-1 w-auto focus:outline-none rounded-md shadow-md shadow-zinc-300 dark:shadow-zinc-500"
             type="search"
             placeholder="search movies here"
             onChange={(e) => setSearchKey(e.target.value)}
