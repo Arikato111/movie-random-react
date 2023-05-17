@@ -9,8 +9,17 @@ const Movies: FC = () => {
     document.title = "ภาพยนตร์ทั้งหมด";
   }, []);
 
-  const MovieSearched = movies.filter((m) =>
-    m.name.toLowerCase().includes(searchKey.toLocaleLowerCase()) || m.year.includes(searchKey)
+  // for search movies
+  const MovieSearched = movies.filter(
+    (m) =>
+      // search with name
+      m.name.toLowerCase().includes(searchKey.toLocaleLowerCase()) ||
+      // search with year
+      m.year.includes(searchKey) ||
+      // search with categories
+      m.categories.toLocaleLowerCase().includes(searchKey) ||
+      // search with tag
+      m.tag.toLocaleLowerCase().includes(searchKey)
   );
 
   return (
@@ -41,6 +50,8 @@ const Movies: FC = () => {
                 img={mv.img}
                 year={mv.year}
                 trailer={mv.trailer}
+                categories={mv.categories}
+                tag={mv.tag}
               />
             </div>
           );

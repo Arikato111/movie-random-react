@@ -6,8 +6,10 @@ type ShowMovieInput = {
     img: string;
     year: string;
     trailer: string;
+    categories: string;
+    tag: string;
 }
-const ShowMovie: FC<ShowMovieInput> = ({ id, img, name, year, trailer }) => {
+const ShowMovie: FC<ShowMovieInput> = ({ id, img, name, year, trailer, categories, tag }) => {
     const [showTrailer, setShowTrailer] = useState(false)
     return <div className="md:whitespace-nowrap overflow-hidden text-center text-slate-800 dark:text-slate-200 flex items-center flex-col">
         <a target={"_blank"} className="hover:underline" title="คลิกเพื่อค้นหาใน google" href={`https://www.google.co.th/search?q=${name}`}>
@@ -21,7 +23,7 @@ const ShowMovie: FC<ShowMovieInput> = ({ id, img, name, year, trailer }) => {
             :
             <a target={"_blank"} href={`https://www.google.co.th/search?q=${name}`}>
                 <div className="w-64 text-center rounded overflow-hidden shadow-smooth dark:shadow-md shadow-pink-300 border-2 border-l-pink-400 border-b-pink-400 border-r-emerald-400 border-t-emerald-400 duration-300 dark:border-white transition-all">
-                    <img className="w-full" src={img} alt={`${name} image`} />
+                    <img className="w-full" src={img} alt={`${name} image`} title={categories} />
                 </div>
             </a>
         }

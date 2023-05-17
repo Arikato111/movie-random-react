@@ -4,146 +4,188 @@
         "name": "Tomorrow i will date with yesterday’s you",
         "img": "https://s.isanook.com/mv/0/ud/13/65113/2TOMOROWPOSTER28X40inchesTH.jpg",
         "year": "2016",
-        "trailer": "https://www.youtube.com/embed/QViRFUq5wPs"
+        "trailer": "https://www.youtube.com/embed/QViRFUq5wPs",
+        "categories": "Drama, Fantasy, Romance, ดราม่า, แฟนตาซี, โรแมนติก",
+        "tag": "ความรัก, เศร้า, เวลา, นานะ โคมัตสึ, ฟุคุชิ โชตะ, พรุ่งนี้ผมจะเดตกับเธอคนเมื่อวาน"
     },
     {
         "id": 1,
         "name": "Let me eat your pancreas",
         "img": "https://sahamongkolfilm.com/wp-content/uploads/2017/10/Pancreas-Poster-th02-1.jpg",
         "year": "2017",
-        "trailer": "https://www.youtube.com/embed/UORJkrOIflU"
+        "trailer": "https://www.youtube.com/embed/UORJkrOIflU",
+        "categories": "Drama, Romance, ดราม่า, โรแมนติก",
+        "tag": "ความรัก, เศร้า, ความสัมพันธ์, ความทรงจำ, วัยรุ่น, ซากุระ, ฤดูใบไม้ผลิ, สร้างจากหนังสือ, Yoru Sumino, โยะรุ ซุมิโนะ, Minami Hamabe, มินามิ ฮามาเบะ, Takumi Kitamura, ทากูมิ คิตะมูระ"
     },
     {
         "id": 2,
         "name": "100th love with you",
         "img": "https://m.media-amazon.com/images/M/MV5BZTcyNjYxMWUtNGM3ZC00NDhlLThiZmQtYTljNTA4NWVlMTAzXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_FMjpg_UX1000_.jpg",
         "year": "2017",
-        "trailer": "https://www.youtube.com/embed/iMbch7uvboI"
+        "trailer": "https://www.youtube.com/embed/iMbch7uvboI",
+        "categories": "Drama, Romance, ดราม่า, โรแมนติก",
+        "tag": "ย้อนรัก 100 ครั้ง ก็ยังเป็นเธอ, ความรัก, เศร้า, ย้อนเวลา, ดนตรี, ร้องเพลง, Sakaguchi Kentaro, มิวะ, miwa"
     },
     {
         "id": 3,
         "name": "the garden of words",
         "img": "https://m.media-amazon.com/images/M/MV5BMTJjZmQ5MGQtMWU0My00ZTMzLWFmNTMtNDgzNmU4Y2MxOGUxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg",
         "year": "2013",
-        "trailer": "https://www.youtube.com/embed/udDIkl6z8X0"
+        "trailer": "https://www.youtube.com/embed/udDIkl6z8X0",
+        "categories": "Drama, ดราม่า",
+        "tag": "ยามสายฝนโปรยปราย, สายฝน, ความเศร้า, บรรยากาศ, Makoto Shinkai"
     },
     {
         "id": 4,
         "name": "your name",
         "img": "https://upload.wikimedia.org/wikipedia/th/e/ea/Your_name_front_cover.jpg",
         "year": "2016",
-        "trailer": "https://www.youtube.com/embed/mPsjLnEtJZI"
+        "trailer": "https://www.youtube.com/embed/mPsjLnEtJZI",
+        "categories": "Fantasy, Romance, แฟนตาซี, โรแมนติก",
+        "tag": "ภาพสวย, สลับร่าง, วัยรุ่น, ความรัก, ย้อนเวลา, ดาวตก, อุกกาบาต, Makoto Shinkai"
     },
     {
         "id": 5,
         "name": "5 centimeters per second",
         "img": "https://m.media-amazon.com/images/M/MV5BODJhZDU1MDYtMDQ0NS00N2JmLWI2ZDAtMGNmN2RmNWJhNzQ5L2ltYWdlXkEyXkFqcGdeQXVyNjY1OTY4MTk@._V1_.jpg",
         "year": "2007",
-        "trailer": "https://www.youtube.com/embed/iPsu_sk-e7Q"
+        "trailer": "https://www.youtube.com/embed/iPsu_sk-e7Q",
+        "categories": "Drama, Romance, ดราม่า, โรแมนติก",
+        "tag": "ยามซากุระร่วงโรย, ความรัก, วัยเด็ก, การเต็บโต, ความสัมพันธ์, การปล่อยวาง, การจากลา, Makoto Shinkai"
     },
     {
         "id": 6,
         "name": "Spirited away",
         "img": "https://upload.wikimedia.org/wikipedia/th/3/30/Spirited_Away_poster.JPG",
         "year": "2001",
-        "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk"
+        "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk",
+        "categories": "fantasy, adventure, แฟนตาซี, ผจญภัย",
+        "tag": "มิติวิญญาณมหัศจรรย์, ผจญภัย, ความหมาย, การพบเจอ, ต่างเมือง, ต่างมิติ, Hayao Miyazaki"
     },
     {
         "id": 7,
         "name": "Hotarubi no mori e",
         "img": "https://www.metalbridges.com/wp-content/uploads/2015/11/Hotarubi-8.jpg",
         "year": "2011",
-        "trailer": "https://www.youtube.com/embed/zOc3pbvFAww"
+        "trailer": "https://www.youtube.com/embed/zOc3pbvFAww",
+        "categories": "Drama, Fantasy, ดราม่า, แฟนตาซี",
+        "tag": "สู่ป่าแห่งแสงหิ่งห้อย, To the Forest of Firefly Lights, ความสัมพันธ์, ความรัก, เรื่องเหนือธรรมชาติ, การเติบโต, การจากลา, Takahiro Ômori"
     },
     {
         "id": 8,
         "name": "I want to eat your pancreas",
         "img": "https://m.media-amazon.com/images/M/MV5BNDM4MWE3NGQtODlkYS00NWU5LTg3ZjMtMTEyNjljOWI4NWIxXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_FMjpg_UX1000_.jpg",
         "year": "2018",
-        "trailer": "https://www.youtube.com/embed/MmoBvmJA9XI"
+        "trailer": "https://www.youtube.com/embed/MmoBvmJA9XI",
+        "categories": "Drama, Romance, ดราม่า, โรแมนติก",
+        "tag": "ความรัก, เศร้า, ความทรงจำ, วัยรุ่น, ซากุระ, ฤดูใบไม้ผลิ, Yoru Sumino, โยะรุ ซุมิโนะ, Shin'ichirô Ushijima"
     },
     {
         "id": 9,
         "name": "The Little Prince",
         "img": "https://m.media-amazon.com/images/M/MV5BNjg0OTM5OTQyNV5BMl5BanBnXkFtZTgwNDg5NDQ0NTE@._V1_.jpg",
         "year": "2015",
-        "trailer": "https://www.youtube.com/embed/fEPqgSNLfK8"
+        "trailer": "https://www.youtube.com/embed/fEPqgSNLfK8",
+        "categories": "Fantasy, แฟนตาซี",
+        "tag": "เจ้าชายน้อย, Le Petit Prince, เรื่องราว, เด็ก, สร้างจากหนังสือ, ความหมาย"
     },
     {
         "id": 10,
         "name": "Coco",
         "img": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
         "year": "2017",
-        "trailer": "https://www.youtube.com/embed/Ga6RYejo6Hk"
+        "trailer": "https://www.youtube.com/embed/Ga6RYejo6Hk",
+        "categories": "fantasy, adventure, แฟนตาซี, ผจญภัย",
+        "tag": "เพลง, ต่างมิติ, ความหมาย, เรื่องราว, ตามหาความฝัน, Lee Unkrich, Adrian Molina"
     },
     {
         "id": 11,
         "name": "Bridge to terabithia",
         "img": "https://lumiere-a.akamaihd.net/v1/images/p_bridgetoterabithia_19754_77904a58.jpeg",
         "year": "2007",
-        "trailer": "https://www.youtube.com/embed/T2TDSEG57hI"
+        "trailer": "https://www.youtube.com/embed/T2TDSEG57hI",
+        "categories": "Drama, Fantasy, adventure, ดราม่า, แฟนตาซี, ผจญภัย",
+        "tag": "สะพานมหัศจรรย์, เด็ก, จินตนาการ, ความสัมพันธ์, Gabor Csupo"
     },
     {
         "id": 12,
         "name": "about time",
         "img": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_.jpg",
         "year": "2013",
-        "trailer": "https://www.youtube.com/embed/u2PUMA6nFWk"
+        "trailer": "https://www.youtube.com/embed/u2PUMA6nFWk",
+        "categories": "Fantasy, Romance, แฟนตาซี, โรแมนติก",
+        "tag": "ย้อนเวลาให้เธอ(ปิ๊ง)รัก, การใช้ชีวิต, ความรัก, ความหมาย, ราเชล แม็กอดัมส์, Rachel McAdams, โดห์นัลล์ กลีสัน, Domhnall Gleeson, Richard Curtis"
     },
     {
         "id": 13,
         "name": "Me before you",
         "img": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_.jpg",
         "year": "2016",
-        "trailer": "https://www.youtube.com/embed/h2niFQw5ZlQ"
+        "trailer": "https://www.youtube.com/embed/h2niFQw5ZlQ",
+        "categories": "Romance, Life, โรแมนติก, ชีวิต",
+        "tag": "มี บีฟอร์ ยู, ความสัมพันธ์, เจ็บป่วย, การดูแล, การใช้ชีวิต, แซม คลาฟลิน, Samuel Clafflin, เอมิเลีย คลาร์ก,  Emilia Clarke, Thea Sharrock"
     },
     {
         "id": 14,
         "name": "A star is born",
         "img": "https://m.media-amazon.com/images/M/MV5BNmE5ZmE3OGItNTdlNC00YmMxLWEzNjctYzAwOGQ5ODg0OTI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
         "year": "2018",
-        "trailer": "https://www.youtube.com/embed/e-7y74NidD8"
+        "trailer": "https://www.youtube.com/embed/e-7y74NidD8",
+        "categories": "Romance, Musicial, โรแมนติก, เพลง",
+        "tag":"ร้องเพลง, นักร้อง, การเติบโต, เศร้้า, แบรดลีย์ คูเปอร์, Bradley Cooper, Lady Gaga, เลดีกากา"
     },
     {
         "id": 15,
         "name": "แฟนเดย์..แฟนกันแค่วันเดียว",
         "img": "https://upload.wikimedia.org/wikipedia/th/8/85/%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C_%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_poster.jpg",
         "year": "2016",
-        "trailer": "https://www.youtube.com/embed/OPp2CoLdXcc"
+        "trailer": "https://www.youtube.com/embed/OPp2CoLdXcc",
+        "categories": "Romance, Life, โรแมนติก, ชีวิต",
+        "tag": "ไทย, แอบรัก, แอบชอบ, ท่องเที่ยว, โกหก, เต๋อ ฉันทวิชช์ ธนะเสวี, มิว นิษฐา จิรยั่งยืน, บรรจง ปิสัญธนะกูล"
     },
     {
         "id": 16,
         "name": "Forrest gump",
         "img": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
         "year": "1994",
-        "trailer": "https://www.youtube.com/embed/bLvqoHBptjg"
+        "trailer": "https://www.youtube.com/embed/bLvqoHBptjg",
+        "categories": "Romance, Life, โรแมนติก, ชีวิต",
+        "tag": "ฟอร์เรสท์ กัมพ์ อัจฉริยะปัญญานิ่ม, เหนือความคาดหมาย, ความสัมพันธ์, ทอม แฮงส์, Tom Hanks, โรบิน ไรท์, Robin Wright, robert zemeckis"
     },
     {
         "id": 17,
         "name": "blade runner 2049",
         "img": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
         "year": "2017",
-        "trailer": "https://www.youtube.com/embed/gCcx85zbxz4"
+        "trailer": "https://www.youtube.com/embed/gCcx85zbxz4",
+        "categories": "sci-fi, action, ไซไฟ, แอ็คชั่น",
+        "tag": "เรื่องราว, ปริศนา, ตัวตน, ความสำคัญ, ต่อสู้, ช่วยเหลือ, ไรอัน กอสลิง, ryan gosling, อนา เดอ อาร์มัส, Ana Celia de Armas, เดอนี วีลเนิฟว์"
     },
     {
         "id": 18,
         "name": "all quiet on the western front",
         "img": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
         "year": "2022",
-        "trailer": "https://www.youtube.com/embed/hf8EYbVxtCY"
+        "trailer": "https://www.youtube.com/embed/hf8EYbVxtCY",
+        "categories": "War, action, สงคราม, แอ็คชั่น",
+        "tag": "แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง, สงครามโลกครั้งที่ 1, ความโดดเดี่ยว, หวาดกลัว, สูญเสีย, สะเทือนอารมณ์, ความรุนแรง, เอ็ดเวิร์ด เบอร์เกอร์"
     },
     {
         "id": 19,
         "name": "rurouni kenshin the beginning",
         "img": "https://upload.wikimedia.org/wikipedia/en/5/57/Rurouni_Kenshin_The_Beginning.jpg",
         "year": "2021",
-        "trailer": "https://www.youtube.com/embed/McqDy8GbvCg"
+        "trailer": "https://www.youtube.com/embed/McqDy8GbvCg",
+        "categories": "action, Life, แอ็คชั่น, ชีวิต",
+        "tag": "รูโรนิ เคนชิน ซามูไรพเนจร: ปฐมบท, ดาบซามูไร, ความรัก, การฆ่าฟัน, ความเจ็บปวด, การสูญเสีย, สัญญา, Kasumi Arimura, คาซุมิ อาริมุระ, ซาโต ทาเครุ, เคอิชิ โอโตโมะ"
     },
     {
         "id": 20,
         "name": "your lie in april 2016",
         "img": "https://m.media-amazon.com/images/M/MV5BZjA4ZjgwOGQtODZiMS00Njg1LTlhNTAtM2EzYmE3YTczZWY3XkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_.jpg",
         "year": "2016",
-        "trailer": "https://www.youtube.com/embed/FLS4TdJPFVQ"
+        "trailer": "https://www.youtube.com/embed/FLS4TdJPFVQ",
+        "categories": "Romance, Musicial, โรแมนติก, เพลง",
+        "tag": "เพลงรักสองหัวใจ, ดนตรีคลาสสิก, ไวโอลีน, เปียโน, คำโกหก, ความสัมพันธ์, ความหมาย, การใช้ชีวิต, เคนโตะ ยามาซากิ, Kento Yamazaki, ซึสุ ฮิโรเสะ, Suzu Hirose"
     }
 ]

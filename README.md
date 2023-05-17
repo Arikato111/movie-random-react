@@ -24,8 +24,8 @@
 
 ## TODOs
 
-- [ ] keywords for search.
-- [ ] Movie's categories.
+- [x] keywords for search.
+- [x] Movie's categories.
 - [x] darkmode 
 - [x] beautiful front-end 
 - [x] many movies
