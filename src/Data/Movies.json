@@ -20,7 +20,7 @@
     {
         "id": 2,
         "name": "100th love with you",
-        "img": "https://m.media-amazon.com/images/M/MV5BZTcyNjYxMWUtNGM3ZC00NDhlLThiZmQtYTljNTA4NWVlMTAzXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_FMjpg_UX1000_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BNGVmZjk3YWMtM2M3OS00YjE4LWJjODAtOGUwYWU5MDY1NDM2XkEyXkFqcGc@._V1_.jpg",
         "year": "2017",
         "trailer": "https://www.youtube.com/embed/iMbch7uvboI",
         "categories": "Drama, Romance, ดราม่า, โรแมนติก",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "name": "your name",
-        "img": "https://upload.wikimedia.org/wikipedia/th/e/ea/Your_name_front_cover.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "year": "2016",
         "trailer": "https://www.youtube.com/embed/mPsjLnEtJZI",
         "categories": "Fantasy, Romance, แฟนตาซี, โรแมนติก",
@@ -132,12 +132,12 @@
         "year": "2018",
         "trailer": "https://www.youtube.com/embed/e-7y74NidD8",
         "categories": "Romance, Musicial, โรแมนติก, เพลง",
-        "tag":"ร้องเพลง, นักร้อง, การเติบโต, เศร้้า, แบรดลีย์ คูเปอร์, Bradley Cooper, Lady Gaga, เลดีกากา"
+        "tag": "ร้องเพลง, นักร้อง, การเติบโต, เศร้้า, แบรดลีย์ คูเปอร์, Bradley Cooper, Lady Gaga, เลดีกากา"
     },
     {
         "id": 15,
         "name": "แฟนเดย์..แฟนกันแค่วันเดียว",
-        "img": "https://upload.wikimedia.org/wikipedia/th/8/85/%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C_%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_poster.jpg",
+        "img": "https://s.isanook.com/mv/0/ud/12/62601/aw_poster_fanday_theme_a_cut_1_-_m.jpg",
         "year": "2016",
         "trailer": "https://www.youtube.com/embed/OPp2CoLdXcc",
         "categories": "Romance, Life, โรแมนติก, ชีวิต",
@@ -187,5 +187,14 @@
         "trailer": "https://www.youtube.com/embed/FLS4TdJPFVQ",
         "categories": "Romance, Musicial, โรแมนติก, เพลง",
         "tag": "เพลงรักสองหัวใจ, ดนตรีคลาสสิก, ไวโอลีน, เปียโน, คำโกหก, ความสัมพันธ์, ความหมาย, การใช้ชีวิต, เคนโตะ ยามาซากิ, Kento Yamazaki, ซึสุ ฮิโรเสะ, Suzu Hirose"
+    },
+    {
+        "id": 21,
+        "name": "The Secret Life of Walter Mitty",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.collider.com%2Fwp-content%2Fuploads%2Fthe-secret-life-of-walter-mitty-poster-mountain.jpg",
+        "year": "2013",
+        "trailer": "https://www.youtube.com/embed/QD6cy4PBQPI",
+        "categories": "adventure, comedy-drama",
+        "tag": "ผจญภัย, ท่องเทีียว, การใช้ชีวิต, ความหมาย, สถานที่, สวยงาม"
     }
 ]
